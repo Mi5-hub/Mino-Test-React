@@ -5,5 +5,5 @@
 TEST REACT-CODING-CHALLENGE
 
 &nbsp;
-## Programer ℹ️
+## Programmer ℹ️
 RANDIMBIARILANTO Mino
